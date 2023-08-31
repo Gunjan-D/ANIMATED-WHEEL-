@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+  <head>
+    <link rel="stylesheet" href="left-s.css">
+  <meta charset="UTF-8">
+  <title>Wheel Animation</title>
+  <link rel="stylesheet" href="gunji.css"> 
+</head>
+<body style="background-color: #ffffff">
+  <div id="Name">
+    <h2 style="font-size: 34px;">ANIMATED WHEEL FOR CANCER CENTERS</h2>
+  </div><br>
+ 
+  <nav class="menu">
+   <input type="checkbox" href="#" class="expandmenu" name="expandmenu" id="expandmenu" />
+   <label class="expandmenu-button" for="expandmenu">
+    <span class="lines first-line"></span>
+    <span class="lines sec-line"></span>
+    <span class="lines third-line"></span>
+  </label>
+  
+   <a ul {
+    list-style-img="#" width="50" height="40"  class="menu-item col1" a href="#section2" class="btn"><img src="RAJASTHAN.png"width="70" height="70"></i></a>
+   </i>
+   <a ul { 
+    list-style-img="#" width="50" height="40"  class="menu-item col2" a href="#section3" class="btn"><img src="KERALA (1).png" width="80" height="80"></i></a>
+  </i>
+   <a ul { 
+    list-style-img="#" width="50" height="40"  class="menu-item col3" a href="#section4" class="btn"><img src="MAHARASHTRA (1).png" width="70" height="70"></i></a>
+  </i>
+   <a ul { 
+    list-style-img="#" width="50" height="40"  class="menu-item col4" a href="#section5" class="btn"><img src="DELHI (1).png" width="80" height="80"></i></a>
+  </i>
+   <a ul { 
+    list-style-img="#" width="50" height="40"  class="menu-item col5" a href="#section6" class="btn"><img src="tamil nadu (1).png" width="70" height="70"></i></a>
+  </i>
+   <a ul { 
+    list-style-img="#" width="50" height="40"  class="menu-item col6" a href="Read More For Wheel.html" class="btn"><img src="READ MORE.png" width="90" height="90"></i></a>
+   </i>
+</nav>
+<div class="section one" id="section1">
+  <p>
+    <br>
+    
+    </p>
+</div>
+<div  class="section two" id="section2" >
+  
+  <head>
+    <style>
+    h2 {
+      font-family: 'Lucida Sans';
+      font-size: 30px;
+    }
+    
+    p {
+      font-family: 'Lucida Sans';
+      font-size: 14px;
+      text-align: left;
+      
+    }
+    p.solid {
+      border-style: solid;
+    }
+    .tab {
+    display: inline-block;
+    margin-left: 40px;
+}
+    </style>
+    </head>
+    <body>
+      
+    <u><h2>CANCER CENTERS IN RAJASTHAN</h2></u>
+    <p><span class="tab"></span><a href="http://rccbikaner.in/" target="_blank">1. Acharya Tulsi Regional Cancer Trust & Research Institute 	P.B.M. Hospital Campus, S.P. Medical College, Bikaner (Rajasthan-334003)	Bikaner, Rajasthan.</a><br></p>
+    <p><span class="tab"></span><a href="https://www.gbhamericanhospital.com/" target="_blank">2. GBH American Hospial 101, Kothi Bagh, Bhatt Ji Ki Bari,Meera Girls College Road,Udaipur,Rajasthan-313001, Udaipur,	Rajasthan.</a><br></p>
+    <p><span class="tab"></span><a href="https://www.practo.com/" target="_blank">3. Sanchetee hospital, Sancheti Hospital-Jodhpur, Pal Link Road Pratap Nagar , Rajasthan-342003	Jodhpur,Rajasthan.</a><br></p>
+    <p><span class="tab"></span><a href="https://www.shiksha.com/college/s-m-s-medical-college-jaipur-63113" target="_blank">4. SMS Medical College, SMS Medical College & Attached Hospitals, J.L.N. Marg, Jaipur,Rajasthan -302004	Jaipur,Rajasthan.</a><br>
+    </p>
+</div>
+</div>
+
+
+<div class="section three" id="section3">
+  
+  <head>
+    <style>
+      h3 {
+        font-family: 'Lucida Sans';
+        font-size: 30px;
+        
+      }
+      
+      p {
+        font-family: 'Lucida Sans';
+        font-size: 14px;
+        text-align: left;
+      }
+      </style>
+      </head>
+  <body>
+ <u><h3>CANCER CENTERS IN KERALA</h3></u>
+  <p><span class="tab"></span><a href="https://amritahospitals.org/kochi/" target="_blank">1. Amrita Institute of Medical Sciences and Research Institute	Ponekkara, Kochi, Kerala-682041	Amrita Lane, Kochi 	Kerala.</a><br></p>
+  <p><span class="tab"></span><a href="https://www.mcc.kerala.gov.in/" target="_blank">2. Malabar Cancer Centre 	Thalassery-Koppalam-Panoor Road,Moozhikkara,Kodiyeri,Thalassery, Kannur, Kerala-670103	Kannur	Kerala.</a><br></p>
+  <p><span class="tab"></span><a href="https://www.rcctvm.gov.in/" target="_blank">3. Regional Cancer Centre 	Medical College Campus, Post Bag No.2417, Thiruvananthapuram	Thiruvananthapuram 	Kerala.</a><br></p>
+  <p><span class="tab"></span><a href="https://www.asterhospitals.in/hospitals/aster-medcity-kochi" target="_blank">4. Aster Medcity  	Aster DM Healthcare Pvt Ltd, Kuttisahib Road, Near Kothad Bridge South Chittoor P.O, Cheranelloor, Kochi	 Kochi - 682027	Kerala.</a><br>
+      </p>
+</div>
+</div>
+
+<div class="section four" id="section4">
+ 
+  <head>
+    <style>
+      h4 {
+        font-family: 'Lucida Sans';
+        font-size: 30px;
+      }
+      
+      p {
+        font-family: 'Lucida Sans';
+        font-size: 14px;
+        text-align: left;
+      }
+      </style>
+      </head>
+  <body>
+    <u><h4>CANCER CENTERS IN MAHARASHTRA</h4></u>
+  <p> <span class="tab"></span><a href="https://www.actrec.gov.in/" target="_blank">1. ACTREC	Sector 22, Utsav Chowk - CISF Rd, Kharghar, Navi Mumbai, Maharashtra 410210	New Mumbai	Maharashtra.</a><br></p>
+  <p> <span class="tab"></span><a href="http://gmcnagpur.org/" target="_blank">2. Government Medical College - Nagpur 	Government Medical College,Near Hanuman Nagar,Nagpur- 440009	Nagpur	Maharashtra.</a><br></p>
+  <p> <span class="tab"></span><a href="https://www.jehangirhospital.com/" target="_blank">3. Jehangir Hospital - Jehangir Clinical Development Centre	Sohrab Hall 5th Floor,West Wing Opposite Jehangir Hospital 32 Sassoon Road,Pune-411001	Pune	Maharashtra.</a><br></p>
+  <p> <span class="tab"></span><a href="https://www.kolhapurcancercentre.com/" target="_blank">4. Kolhapur Cancer Center 	A/p. R. S. No. 238, Gokul Shirgaon, Karveer, Kolhapur, Maharashtra-416234	Kolhapur	Maharashtra.</a><br> </p>
+</div>
+</div>
+    
+<div class="section five" id="section5">
+  <head>
+    <style>
+      h5 {
+        font-family: 'Lucida Sans';
+        font-size: 30px;
+      }
+      
+      p {
+        font-family: 'Lucida Sans';
+        font-size: 14px;
+        text-align: left;
+      }
+      </style>
+      </head>
+  <body>
+    <u><h5>CANCER CENTERS IN DELHI</h5></u>
+  <p> <span class="tab"></span><a href="http://www.dsci.nic.in/" target="_blank">1. Delhi State Cancer Institutes	8, GTB Hospital Complex, Dilshad Garden, New Delhi, Delhi-110095	New Delhi 	Delhi</a><br></p>
+  <p> <span class="tab"></span><a href="https://www.aiims.edu/index.php?option=com_content&view=article&id=415&Itemid=720&lang=en" target="_blank">2. Indian Rotary Cancer Institute (AIIMS) 	IRCH, Ansari Nagar East, New Delhi, Haryana	New Delhi	New Delhi</a><br></p>
+  <p> <span class="tab"></span><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket" target="_blank">3. Max Healthcare Inst. Ltd.	Max Super Speciality Hospital, Saket 1,2 Press Enclave Road, Saket,New Delhi-110 017	New Delhi	New Delhi</a><br></p>
+  <p> <span class="tab"></span>4. R&R Hospital (Armed Forces)	Army R And R Hospital, 11, Dhaula Kuan, Delhi Cant, NCR-110010	New Delhi	New Delhi<br> </p>
+</div>
+</div>
+<div class="section six" id="section6">
+  <head>
+    <style>
+      h6 {
+        font-size: 30px;
+        font-family: 'Lucida Sans';
+      }
+      
+      p {
+        font-family: 'Lucida Sans';
+        font-size: 14px;
+        text-align: left;
+      }
+      </style>
+      </head>
+  <body>
+    <u><h6>CANCER CENTERS IN TAMIL NADU</h6></u>
+  <p> <span class="tab"></span><a href="https://tmc.gov.in/index.php/en/list-of-center/179-ncg/49-anna-memorial-cancer-research-institute" target="_blank">1. Anna Memorial Cancer Res. Institute	Karapettai, AH45, Tamil Nadu-631552	Kancheepuram 	Tamil Nadu.</a><br></p>
+  <p> <span class="tab"></span><a href="https://cancerinstitutewia.in/CI-WIA/" target="_blank">2. Cancer Institute (WIA) 	18,East Canal Bank Road,Gandhi Nagar,Adyar, Chennai, Tamil Nadu 600020,No:38, Sardar Patel Road, Adyar,Chennai 600036.	Chennai	Tamil Nadu.</a><br></p>
+  <p> <span class="tab"></span><a href="https://mediniz.com/cancer/hospital/clinic/Chennai/cancer-research-and-relief-trust-crrt" target="_blank">3. Cancer Research and Relief Trust  	No 214, E.V.R Periyar Salai,Kilpauk, Chennai- 600010	Chennai	Tamil Nadu.</a><br></p>
+  <p> <span class="tab"></span><a href="https://www.cmch-vellore.edu/" target="_blank">4. Christian Medical College 	IDA Scudder Rd, Vellore, Tamil Nadu 632004	Vellore 	West Bengal</a><br> </p>
+</div>
+</div>
+</html>
