@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    #Name {
+   padding-top: 5px;
+   padding-bottom: 10px;
+   text-align: center;
+   background-color: #ded0f6;
+   color: #433B4F;
+ }
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 1px;
+  background-color: #ded0f6;
+  padding: 100px;
+}
+
+.grid-container > div {
+  background-color:#ded0f6;
+  border-radius: 10%;
+  text-align: center;
+  font-size: 30px;
+}
+h1 {
+        font-size: 30px;
+        font-family: 'Lucida Sans';
+        text-align: center;
+      }
+      
+      p {
+        font-family: 'Lucida Sans';
+        font-size: 14px;
+        text-align: left;
+      }
+      body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+      
+
+</style>
+</head>
+<body>
+    <body style="background-color: #ffffff">
+        <div id="Name">
+          <h2 style="font-size: 34px;">ANIMATED WHEEL CONTINUED</h2>
+        </div><br>
+
+    <u><h1>CANCER CENTERS IN INDIA</h1></u>
+
+<div class="grid-container">
+  <div><a href="https://www.google.com/search?q=cancer+centers+in+goa&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=0mOBZLDkFfmuseMPv4ub-AY&ved=0ahUKEwiwlaKr9bL_AhV5V2wGHb_FBm8Q4dUDCAk&uact=5&oq=cancer+centers+in+goa&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoFCCEQoAE6CAghEBYQHhAdUIMDWNYQYJ8SaAFwAHgBgAGcA4gBzQqSAQcyLTEuMi4xmAEAoAEBwAEB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[15.624444599999997,73.97358460000001],[15.261271599999999,73.7485059]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2"style="display:block"target="_blank"><img src= "GOA.png" width="160" height="160"></a></div>
+  <div><a href="https://www.google.com/search?q=cancer+hospital+in+gujarat&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=QmSBZIz9OKGPseMPgMWoiAs&oq=cancer+centers+in+gujara&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIICAAQFhAeEA8yCAgAEIoFEIYDMggIABCKBRCGAzIICAAQigUQhgM6BQgAEIAEUDtY3Q1gqxloAHAAeACAAfUEiAHlHZIBBzMtMy4xLjSYAQCgAQHAAQE&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[23.7450001,73.6431399],[20.5357938,70.31460489999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src="GUJARAT.png"width="180" height="180"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+assam&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=dWSBZOejM_DjseMP5rGY-AI&ved=0ahUKEwinspz59bL_AhXwcWwGHeYYBi8Q4dUDCAk&uact=5&oq=cancer+hospital+in+assam&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCAAQigUQQ1ChA1i7GmDUHWgAcAB4AYAB7QSIAZ0mkgEJMi01LjMuMi4zmAEAoAEBwAEB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[27.654582299999998,95.182842],[24.626703199999998,90.747446]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src="ASSAM.png"width="180" height="180"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+arunachal+pradesh&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=kGSBZOX5KJrgseMP25SLOA&oq=cancer+hospital+in+aruna&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYADIFCCEQoAEyCAghEBYQHhAdMggIIRAWEB4QHToHCAAQigUQQzoFCAAQgAQ6BggAEBYQHjoICAAQigUQhgM6BwghEKABEAo6BAghEBVQU1jAImC-LGgCcAB4AIABugSIAbobkgELMC4xLjQuNC4xLjGYAQCgAQHAAQE&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[28.1524248,96.356],[26.6426649,91.61056339999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "ARUNACHAL PRADESH.png" width="165" height="165"></a></div>
+
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+mizoram+state&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=8GSBZL6SD4vF4-EPg7aG4Ag&oq=cancer+hospital+in+mizoram+&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYAzIFCCEQoAEyBQghEKABMgUIIRCgATIICCEQFhAeEB1Q8AFY8AFgjxpoAHAAeACAAYIDiAG5BZIBAzMtMpgBAKABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[23.7499725,92.7529083],[23.7314202,92.7206709]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2"style="display:block"target="_blank"><img src="MIZORAM.png"width="170" height="170"></a></div> 
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+haryana+state&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=-2SBZLHrCMfl4-EP_6Cy8Ac&oq=cancer+hospital+in+har+state&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYADIKCCEQoAEQwwQQCjoGCAAQBxAeOggIABAFEAcQHjoGCAAQCBAeOggIIRCgARDDBFC1A1isDGDYHmgAcAB4AIABwQOIAbwNkgEHMi0xLjMuMZgBAKABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[30.286200299999997,77.39209029999999],[28.1302481,75.6395823]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2"style="display:block"target="_blank"><img src= "HARYANA.png" width="170" height="170"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+himachal+pradesh&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=JmWBZOLeK7GbseMP4aah8A4&oq=cancer+hospital+in+him&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYADIFCAAQgAQyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIICAAQigUQhgMyCAgAEIoFEIYDMggIABCKBRCGAzoICAAQFhAeEA86CwgAEBYQHhDxBBAKOgUIIRCgAToICCEQFhAeEB1QoANY_CBg-CtoBHAAeAKAAZ8GiAGxHZIBCzItMS41LjIuMC4xmAEAoAEBwAEB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[32.3512069,77.6524354],[30.323425900000004,76.0868674]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "HIMACHAL PRADESH.png"width="170" height="170"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+madhya+pradesh&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=RWWBZMf0HqTdseMP_fy3wAQ&oq=cancer+hospital+in+madh+pradesh&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYADIHCAAQDRCABDIICAAQBRAHEB4yCAgAEIoFEIYDMggIABCKBRCGAzIICAAQigUQhgM6BQgAEIAEOgYIABAIEB46CAgAEAgQHhANOgUIABCiBDoGCAAQBxAeUI0EWIwfYOMwaABwAHgAgAHYBIgBvyOSAQkyLTMuOC4xLjGYAQCgAQHAAQE&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[26.423045799999997,81.249033],[22.056649099999998,75.4875354]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "MADHYA PRADESH.png" width="160" height="160"></a></div>
+
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+chhattisgarh&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=omWBZKDoKda5seMPsuen8A0&ved=0ahUKEwigwdaI97L_AhXWXGwGHbLzCd4Q4dUDCAk&uact=5&oq=cancer+hospital+in+chhattisgarh&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yCAgAEIoFEIYDMggIABCKBRCGAzIICAAQigUQhgMyCAgAEIoFEIYDOgcIABCKBRBDUIgCWKUFYN8IaABwAHgAgAG6BIgB7QuSAQczLTEuMC4ymAEAoAEBoAECwAEB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[22.142936499999998,82.21646009999999],[21.0637489,81.57254139999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2"style="display:block"target="_blank"> <img src="chhattisgarh.png" width="160" height="160"></a></div>
+  <div><a href= "https://www.justdial.com/Gangtok/Cancer-Hospitals-in-Sikkim-Manipal-University/nct-10989927"style="display:block"target="_blank"><img src= "SIKKIM.png" width="165" height="165"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+TELANGANA&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=KmaBZJvyGpLMseMPqISbgAo&ved=0ahUKEwibr7TJ97L_AhUSZmwGHSjCBqAQ4dUDCAk&uact=5&oq=cancer+hospital+in+TELANGANA&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOggIABAWEB4QDzoICAAQigUQhgNQ5rwCWOjJAmC7zAJoAXAAeAGAAY8FiAH4GJIBCzAuMS4xLjEuMS4zmAEAoAEBoAECwAEB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[18.5167854,79.6745409],[17.303598,78.2804361]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "TELANGANA.png" width="160" height="160"></div></a>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+TRIPURA&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=omaBZL7_BOLdseMPlp2aiA0&ved=0ahUKEwi-2LqC-LL_AhXibmwGHZaOBtEQ4dUDCAk&uact=5&oq=cancer+hospital+in+TRIPURA&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgcIABCKBRBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQ-gJY5AZg5wpoAHAAeAGAAdoGiAGTCpIBBzQtMS4wLjGYAQCgAQGgAQLAAQE&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[23.8693267,91.2960389],[23.8359739,91.2761739]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "TRIPURA.png" width="160" height="160"></a></div>
+ 
+
+  <div><a href= "https://www.google.com/search?safe=active&rlz=1C1NDCM_enIN904IN907&tbs=lf:1,lf_ui:2&tbm=lcl&q=cancer+centers+in+manipur&rflfq=1&num=10&sa=X&ved=2ahUKEwjA_Ivd87L_AhXca2wGHbBIDSEQjGp6BAhVEAE&biw=1280&bih=601&dpr=1.5#rlfi=hd:;si:;mv:[[24.855825,93.9923062],[24.7757225,93.9197805]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2 " style="display:block"target="_blank"><img src= "MANIPUR.png" width="165" height="165"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+centers+in+jammu+kashmir&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=NWKBZLvzLoy8seMPue2WuAk&ved=0ahUKEwj74cPm87L_AhUMXmwGHbm2BZcQ4dUDCAk&uact=5&oq=cancer+centers+in+jammu+kashmir&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwghEKABEAo6BQgAEKIEOgUIABCABDoGCAAQFhAeOggIABCKBRCGAzoFCCEQoAE6CgghEBYQHhAPEB1QpgNYuCdg3ShoAXAAeAGAAf0CiAHGLZIBBzAuNS44LjiYAQCgAQHAAQE&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[34.1279225,75.38586719999999],[32.593020599999996,74.7546169]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "JAMMU KASHMIR.png"width="170" height="170"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+MEGHALAYA&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=y2aBZI3gK4bhseMP1s2m4A8&ved=0ahUKEwjN8aeW-LL_AhWGcGwGHdamCfwQ4dUDCAk&uact=5&oq=cancer+hospital+in+MEGHALAYA&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMggIABAWEB4QDzIGCAAQFhAeMggIABCKBRCGAzIICAAQigUQhgMyCAgAEIoFEIYDMggIABCKBRCGAzoHCAAQigUQQ1CYA1iFFmC1HGgAcAB4AIABpgOIAa8WkgEHMi00LjMuMpgBAKABAaABAsABAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[26.200738899999997,92.00369219999999],[25.517514,90.8648839]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "MEGHALAYA.png" width="160" height="160"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+WEST+BENGAL&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=7GaBZKKpBq_useMPydqTgAU&ved=0ahUKEwiiz-Cl-LL_AhUvd2wGHUntBFAQ4dUDCAk&uact=5&oq=cancer+hospital+in+WEST+BENGAL&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgcIABCKBRBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQtQJY5wVglAhoAHAAeACAAfkDiAHyB5IBAzUtMpgBAKABAaABAsABAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[26.942946499999998,88.52874609999999],[22.179528299999998,87.78648849999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "WEST BENGAL.png" width="160" height="160"></a></div>
+  
+  
+  
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+punjab&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=E2iBZJTELuXb4-EPt8eeuAs&ved=0ahUKEwjUmd6y-bL_AhXl7TgGHbejB7cQ4dUDCAk&uact=5&oq=cancer+hospital+in+punjab&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgUIABCABDIICAAQFhAeEA8yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCAAQigUQQ1DbAliNDWDHEWgAcAB4AYAB4gOIAacUkgEHMi00LjMuMZgBAKABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[31.729076600000003,76.8542039],[30.080538999999998,74.7673482]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src="PUNJAB.png"width="130" height="130"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+UTTARAKHAND&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=WGiBZNHjI8iHg8UP6PGn-Aw&ved=0ahUKEwjR78bT-bL_AhXIw6ACHej4Cc8Q4dUDCAk&uact=5&oq=cancer+hospital+in+UTTARAKHAND&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIICAAQigUQhgMyCAgAEIoFEIYDMggIABCKBRCGAzoHCAAQigUQQzoICAAQFhAeEA9Q6AJY639gmcEBaABwAHgAgAGFBIgB_xGSAQswLjEuNS4xLjAuMZgBAKABAaABAsABAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[30.4001284,79.615205],[29.1388894,77.7937252]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src="UTTARAKHAND.png"width="140" height="140"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+JHARKHAND&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=D2qBZMeCK-uPseMPu6ePkA0&ved=0ahUKEwiHxvik-7L_AhXrR2wGHbvTA9IQ4dUDCAk&uact=5&oq=cancer+hospital+in+JHARKHAND&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgcIABCKBRBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BggAEBYQHjoICAAQigUQhgNQxitY4S5g6zFoAXAAeACAAaAEiAHlBpIBBzMtMS4wLjGYAQCgAQGgAQLAAQE&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[23.882458999999997,86.4844933],[22.741226299999997,85.1793242]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src="JHARKHAND.png"width="140" height="140"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+UTTAR+PRADESH&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=n2uBZNvwDb-SseMPoJC1uA0&ved=0ahUKEwibvLnj_LL_AhU_SWwGHSBIDdcQ4dUDCAk&uact=5&oq=cancer+hospital+in+UTTAR+PRADESH&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEANQAFgAYMQBaABwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[29.207241000000003,83.8263262],[25.0540846,77.10980719999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "UTTAR PRADESH.png" width="140" height="140"></a></div>
+ 
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+ANDHRA+PRADESH&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=rWuBZNH8GKHM2roP2Pqt2AM&ved=0ahUKEwiRh5vq_LL_AhUhplYBHVh9CzsQ4dUDCAk&uact=5&oq=cancer+hospital+in+ANDHRA+PRADESH&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEB4QDzIGCAAQFhAeMgYIABAWEB46BwgAEIoFEENQ3AJY4wdg4gpoAHAAeACAAeoDiAHFB5IBBzItMi4wLjGYAQCgAQGgAQLAAQE&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[18.011452,83.68002779999999],[13.389270499999999,77.25470279999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "ANDHRA PRADESH.png" width="200" height="200"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+hospital+in+Bihar&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=9WuBZM36Kpzc2roP5JubgAI&ved=0ahUKEwiNydeM_bL_AhUcrlYBHeTNBiAQ4dUDCAk&uact=5&oq=cancer+hospital+in+Bihar&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIICAAQigUQhgMyCAgAEIoFEIYDMggIABCKBRCGAzoHCAAQigUQQ1C2AljLC2DnDWgAcAB4AIABjAOIAacOkgEHMC4xLjEuNJgBAKABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[26.2013419,85.41723979999999],[25.5375625,85.020195]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "BIHAR.png" width="200" height="200"></a></div>
+  <div><a href= "https://www.google.com/search?q=cancer+centers+in+odisha&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=Z32BZJWWI8vB4-EPnbGgwAQ&ved=0ahUKEwjV5ZbejbP_AhXL4DgGHZ0YCEgQ4dUDCAk&uact=5&oq=cancer+centers+in+odisha&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABCKBRCGAzIICAAQigUQhgM6BQghEKABOggIIRAWEB4QHToFCAAQgARQywRYszBgiTdoAHAAeACAAYwFiAGiG5IBCTItMi41LjAuMpgBAKABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[21.6292674,86.0102869],[19.183889999999998,83.75656070000001]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"><img src= "odisha.png" width="150" height="150"></a></div>
+  <div><a href="https://www.google.com/search?q=cancer+hospital+in+nagaland&safe=active&rlz=1C1NDCM_enIN904IN907&biw=1280&bih=601&tbm=lcl&ei=P3mBZJDpHdaNseMP0MQZ&oq=cancer+hospital+in+nagalan&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYADIFCAAQgAQyCAgAEIoFEIYDMggIABCKBRCGAzIICAAQigUQhgM6BwgAEIoFEEM6CAgAEIAEEMkDOggIABCKBRCSAzoGCAAQFhAeOggIABAWEB4QD1AAWNQUYPUhaAFwAHgCgAH6BIgB6C-SAQkyLTIuMC4xLjmYAQCgAQHAAQE&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[25.926311199999997,94.1196102],[25.6548415,93.67706969999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" style="display:block"target="_blank"> <img src= "nagaland.png" width="150" height="150"></a></div>
+</div>
+
+
+<script>
+  // Get the modal
+  var modal = document.getElementById("myModal");
+  
+  // Get the button that opens the modal
+  var btn = document.getElementById("imgsrc");
+  
+  // Get the <span> element that closes the modal
+  var span = document.getElementsByClassName("close")[0];
+  
+  // When the user clicks the button, open the modal 
+  btn.onclick = function() {
+    modal.style.display = "block";
+  }
+  
+  // When the user clicks on <span> (x), close the modal
+  span.onclick = function() {
+    modal.style.display = "none";
+  }
+  
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+  </script>
+  
+  </body>
+  </html>
+ 
